@@ -47,7 +47,7 @@ Partial Class Form1
         Me.gbxColor.Controls.Add(Me.rbnRojo)
         Me.gbxColor.Location = New System.Drawing.Point(12, 12)
         Me.gbxColor.Name = "gbxColor"
-        Me.gbxColor.Size = New System.Drawing.Size(161, 141)
+        Me.gbxColor.Size = New System.Drawing.Size(201, 141)
         Me.gbxColor.TabIndex = 0
         Me.gbxColor.TabStop = False
         Me.gbxColor.Text = "Color"
@@ -55,7 +55,7 @@ Partial Class Form1
         'rbnAmarillo
         '
         Me.rbnAmarillo.AutoSize = True
-        Me.rbnAmarillo.Location = New System.Drawing.Point(35, 97)
+        Me.rbnAmarillo.Location = New System.Drawing.Point(73, 96)
         Me.rbnAmarillo.Name = "rbnAmarillo"
         Me.rbnAmarillo.Size = New System.Drawing.Size(61, 17)
         Me.rbnAmarillo.TabIndex = 3
@@ -66,7 +66,7 @@ Partial Class Form1
         'rbnVerde
         '
         Me.rbnVerde.AutoSize = True
-        Me.rbnVerde.Location = New System.Drawing.Point(35, 74)
+        Me.rbnVerde.Location = New System.Drawing.Point(73, 73)
         Me.rbnVerde.Name = "rbnVerde"
         Me.rbnVerde.Size = New System.Drawing.Size(53, 17)
         Me.rbnVerde.TabIndex = 2
@@ -77,7 +77,7 @@ Partial Class Form1
         'rbnAzul
         '
         Me.rbnAzul.AutoSize = True
-        Me.rbnAzul.Location = New System.Drawing.Point(35, 51)
+        Me.rbnAzul.Location = New System.Drawing.Point(73, 50)
         Me.rbnAzul.Name = "rbnAzul"
         Me.rbnAzul.Size = New System.Drawing.Size(45, 17)
         Me.rbnAzul.TabIndex = 1
@@ -88,7 +88,7 @@ Partial Class Form1
         'rbnRojo
         '
         Me.rbnRojo.AutoSize = True
-        Me.rbnRojo.Location = New System.Drawing.Point(35, 28)
+        Me.rbnRojo.Location = New System.Drawing.Point(73, 27)
         Me.rbnRojo.Name = "rbnRojo"
         Me.rbnRojo.Size = New System.Drawing.Size(47, 17)
         Me.rbnRojo.TabIndex = 0
@@ -104,9 +104,9 @@ Partial Class Form1
         Me.gbxPosicion.Controls.Add(Me.rbnCentro)
         Me.gbxPosicion.Controls.Add(Me.rbnAbajo)
         Me.gbxPosicion.Controls.Add(Me.rbnArriba)
-        Me.gbxPosicion.Location = New System.Drawing.Point(12, 260)
+        Me.gbxPosicion.Location = New System.Drawing.Point(12, 259)
         Me.gbxPosicion.Name = "gbxPosicion"
-        Me.gbxPosicion.Size = New System.Drawing.Size(161, 141)
+        Me.gbxPosicion.Size = New System.Drawing.Size(207, 127)
         Me.gbxPosicion.TabIndex = 1
         Me.gbxPosicion.TabStop = False
         Me.gbxPosicion.Text = "Posicion"
@@ -114,7 +114,7 @@ Partial Class Form1
         'rbnDerecha
         '
         Me.rbnDerecha.AutoSize = True
-        Me.rbnDerecha.Location = New System.Drawing.Point(35, 114)
+        Me.rbnDerecha.Location = New System.Drawing.Point(135, 56)
         Me.rbnDerecha.Name = "rbnDerecha"
         Me.rbnDerecha.Size = New System.Drawing.Size(66, 17)
         Me.rbnDerecha.TabIndex = 8
@@ -125,7 +125,7 @@ Partial Class Form1
         'rbnIzquierda
         '
         Me.rbnIzquierda.AutoSize = True
-        Me.rbnIzquierda.Location = New System.Drawing.Point(35, 92)
+        Me.rbnIzquierda.Location = New System.Drawing.Point(0, 56)
         Me.rbnIzquierda.Name = "rbnIzquierda"
         Me.rbnIzquierda.Size = New System.Drawing.Size(68, 17)
         Me.rbnIzquierda.TabIndex = 7
@@ -136,7 +136,7 @@ Partial Class Form1
         'rbnCentro
         '
         Me.rbnCentro.AutoSize = True
-        Me.rbnCentro.Location = New System.Drawing.Point(35, 69)
+        Me.rbnCentro.Location = New System.Drawing.Point(73, 56)
         Me.rbnCentro.Name = "rbnCentro"
         Me.rbnCentro.Size = New System.Drawing.Size(56, 17)
         Me.rbnCentro.TabIndex = 6
@@ -147,7 +147,7 @@ Partial Class Form1
         'rbnAbajo
         '
         Me.rbnAbajo.AutoSize = True
-        Me.rbnAbajo.Location = New System.Drawing.Point(35, 46)
+        Me.rbnAbajo.Location = New System.Drawing.Point(73, 91)
         Me.rbnAbajo.Name = "rbnAbajo"
         Me.rbnAbajo.Size = New System.Drawing.Size(52, 17)
         Me.rbnAbajo.TabIndex = 5
@@ -158,7 +158,7 @@ Partial Class Form1
         'rbnArriba
         '
         Me.rbnArriba.AutoSize = True
-        Me.rbnArriba.Location = New System.Drawing.Point(35, 23)
+        Me.rbnArriba.Location = New System.Drawing.Point(73, 19)
         Me.rbnArriba.Name = "rbnArriba"
         Me.rbnArriba.Size = New System.Drawing.Size(52, 17)
         Me.rbnArriba.TabIndex = 4
@@ -171,7 +171,7 @@ Partial Class Form1
         Me.lblCuadro.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.lblCuadro.Location = New System.Drawing.Point(411, 171)
         Me.lblCuadro.Name = "lblCuadro"
-        Me.lblCuadro.Size = New System.Drawing.Size(182, 70)
+        Me.lblCuadro.Size = New System.Drawing.Size(182, 76)
         Me.lblCuadro.TabIndex = 2
         '
         'Form1
